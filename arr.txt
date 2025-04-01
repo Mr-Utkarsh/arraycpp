@@ -1,0 +1,27 @@
+collection of similar kinds of data is called an array.
+data stored in an array on linear way/contigous block.
+there are two types of array :-
+1. numeric array.
+2. associative array 
+
+1.numeric array :-
+a numeric array having numeric / integer indexing that always starts from zero 
+There are three types of numeric array:-
+1-one dimention
+2-two dimention
+3-three dimention
+
+(Note :- there is a drawback of array - it is easily hackable.)
+
+2. Associative array :- Associative array having key and value pair where key belongs to indexing that should be unique.
+
+1-one dimention array:- the one dimention array only have one subscript.
+Syntax:-
+    datatype arrayname[size];  ([]this is called subscript)
+
+Different ways of initialization of an Array:-
+
+
+
+
+
